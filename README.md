@@ -5,4 +5,4 @@ lab2:I wonder if there is a way to solve the cycle problem without using nonloca
 <br>
 lab3:where is it?
 <br>
-lab5:*2.9* optional questions not done yet.I found trees quite hard to understand :(
+lab5:Still found trees quite hard to understand :(
