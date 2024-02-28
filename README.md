@@ -14,3 +14,6 @@ Optional questions not done yet
 
 ### lab9:
 Trees and recursion are still confusing for me :(
+
+### lab12：
+Somehow I don't like SQl.
